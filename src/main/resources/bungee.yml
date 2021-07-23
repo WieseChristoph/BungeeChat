@@ -1,0 +1,4 @@
+name: BungeeChat
+version: @version@
+main: de.christoph.wiese.bungeechat.BungeeChat
+author: Christoph Wiese
